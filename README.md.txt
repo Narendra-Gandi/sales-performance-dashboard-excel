@@ -25,3 +25,6 @@ Preview
 * Pivot Tables
 * Pivot Charts
 * Slicers
+
+## Dashboard Preview
+![Dashboard Preview](images/dashboard_preview.png)
